@@ -1,1 +1,2 @@
-# firstrepo
+Still Learning
+Exploring.....git and github
